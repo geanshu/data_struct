@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(14,17): warning C4244: “return”: 从“const _Ty”转换到“int”，可能丢失数据
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(14,17): warning C4244:         with
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(14,17): warning C4244:         [
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(14,17): warning C4244:             _Ty=double
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(14,17): warning C4244:         ]
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(31,12): warning C4101: “len1”: 未引用的局部变量
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(31,8): warning C4101: “len”: 未引用的局部变量
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(31,22): warning C4101: “pos”: 未引用的局部变量
+E:\personal\study\homework\data_struct\experiment_4\main.cpp(31,17): warning C4101: “len2”: 未引用的局部变量
+  experiment_4.vcxproj -> E:\personal\study\homework\data_struct\experiment_4\Debug\experiment_4.exe

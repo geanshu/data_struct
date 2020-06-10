@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\personal\study\homework\data_struct\experiment_1\ex_1\linklist_achieve.h(248): warning C4715: “Linklist<int>::get_value”: 不是所有的控件路径都返回值
+  ex_1.vcxproj -> E:\personal\study\homework\data_struct\experiment_1\ex_1\Debug\ex_1.exe

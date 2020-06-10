@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\personal\study\homework\data_struct\ADT_linklist\linklist_achieve.h(246): warning C4715:  “Linklist<char>::get_value”: 不是所有的控件路径都返回值
+  ADT_linklist.vcxproj -> E:\personal\study\homework\data_struct\ADT_linklist\Debug\ADT_linklist.exe
